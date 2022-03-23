@@ -1,8 +1,13 @@
 .centered-image{
-
+  float: center;
+  width: 37%;
+  height: auto;
+  margin: auto;
 }
 .sidebar {
-
+  width: 30%;
+  float: right;
+  background-color: lightpink;
 }
 .box {
 
