@@ -1,17 +1,22 @@
 body {
   margin: auto;
   height: auto;
+  color: rgb(15, 15, 201);
   background-color: rgb(100, 218, 100);
   font-family: 'Times New Roman', Times, serif;
-  font-size: medium;
+  font-weight: bold;
+  font-size: larger;
   border: 22px dotted purple;  
   box-sizing: border-box;
 }
+.img-mini{
+
+}
+
 .centered-image{
-  float: center;
-  width: 37%;
-  height: auto;
-  margin: auto;
+  float: left;
+  width: 100px;
+  height: 190px;
   box-sizing: border-box;
 }
 .sidebar {
