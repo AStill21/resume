@@ -14,9 +14,8 @@ body {
 }
 
 .centered-image{
-  float: left;
-  width: 100px;
-  height: 190px;
+  max-width: 100%;  
+  height: auto;
   box-sizing: border-box;
 }
 .sidebar {
