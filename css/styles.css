@@ -9,6 +9,15 @@ body {
   border: 22px dotted purple;  
   box-sizing: border-box;
 }
+.container1 {
+  width: 95%;
+  padding: 25px;
+  /* border: solid rgb(8, 136, 240); */
+  border-width: 50px;
+  /* background-color: rgb(111, 0, 255); */
+  /* margin-bottom: 10px; */
+  box-sizing: border-box;
+}
 .img-mini{
 
 }
