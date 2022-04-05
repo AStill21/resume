@@ -40,4 +40,7 @@ _This webpage is my personal online resume fixxed with everything an employer wo
   * _add me on discord at_ __AmiyaS.(she/her)#4196__
   * _Or make a contribution to the code!_
 
+  https://astill21.github.io/resume/
+
+
 Copyright (c) _2022_ _Amiya Stillwell_
